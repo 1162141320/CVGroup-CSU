@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2020.12.10|1. 陈佳林<br>（信息瓶颈） |[《Deep Variational Information Bottleneck》 （ICLR 2017） ](https://arxiv.org/abs/1612.00410 ) ||
+|2020.12.10|2. 王都<br>（目标检测） |[《Deformable DETR: Deformable Transformers for End-to-End Object Detection》 （arXiv 2020）](https://arxiv.org/abs/2010.04159) ||
 |2020.12.03|1. 潘长立<br>（目标检测） |[《Dive Deeper Into Box for Object Detection》 （ECCV 2020）](https://arxiv.org/abs/2007.14350) ||
 |2020.12.03|2. 张永胜<br>（语义分割） |[《CCNet：Criss-Cross Attention for Semantic Segmentation》 （ICCV 2019）](https://arxiv.org/abs/1811.11721) ||
 |2020.11.26|1. 李阳<br>（语义分割） |《mining cross-image semantics for weakly supervised semantic segmentation》 （ECCV 2020） ||
