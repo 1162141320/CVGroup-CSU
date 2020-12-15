@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2020.12.17|1. 尹志华<br>（对比学习） |[《Dense Contrastive Learning for Self-Supervised Visual Pre-Training》 （arXiv 2020） ](https://arxiv.org/abs/2011.09157 ) ||
+|2020.12.17|2. 苑思明<br>（目标检测） |[《Sparse R-CNN: End-to-End Object Detection with Learnable Proposals》 （arXiv 2020）](https://arxiv.org/abs/2011.12450) ||
 |2020.12.10|1. 陈佳林<br>（信息瓶颈） |[《Deep Variational Information Bottleneck》 （ICLR 2017） ](https://arxiv.org/abs/1612.00410 ) ||
 |2020.12.10|2. 王都<br>（目标检测） |[《Deformable DETR: Deformable Transformers for End-to-End Object Detection》 （arXiv 2020）](https://arxiv.org/abs/2010.04159) ||
 |2020.12.03|1. 潘长立<br>（目标检测） |[《Dive Deeper Into Box for Object Detection》 （ECCV 2020）](https://arxiv.org/abs/2007.14350) ||
