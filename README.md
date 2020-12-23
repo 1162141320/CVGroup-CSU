@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2020.12.24|1. 冯硕<br>（目标检测） |[《End-to-End Object Detection with Fully Convolutional Network》 （arXiv 2020） ](https://arxiv.org/abs/2012.03544 ) ||
+|2020.12.24|2. 刘浩天<br>（网络结构） |[《LambdaNetworks: Modeling long-range Interactions without Attention》 （arXiv 2020） ](https://openreview.net/pdf?id=xTJEN-ggl1b) ||
 |2020.12.17|1. 尹志华<br>（对比学习） |[《Dense Contrastive Learning for Self-Supervised Visual Pre-Training》 （arXiv 2020） ](https://arxiv.org/abs/2011.09157 ) ||
 |2020.12.17|2. 苑思明<br>（目标检测） |[《Sparse R-CNN: End-to-End Object Detection with Learnable Proposals》 （arXiv 2020）](https://arxiv.org/abs/2011.12450) ||
 |2020.12.10|1. 陈佳林<br>（信息瓶颈） |[《Deep Variational Information Bottleneck》 （ICLR 2017） ](https://arxiv.org/abs/1612.00410 ) ||
