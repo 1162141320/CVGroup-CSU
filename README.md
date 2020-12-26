@@ -147,5 +147,60 @@ List shared papers in our group
 |2019.7.29|1）尹志华<br>（目标检测）|Cascade network 小结||
 |2019.7.22|1）何柱君<br>（目标检测）|《Spatial memory for context reasoning in object detection》（ICCV-2017）<br>《Structure inference net: Object detection using scene-level context and instance-level relationships》（CVPR-2018）||
 |2019.7.22|2）赵嘉伟<br>（a new type of convolution）|《HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs》（CVPR-2019）||
-
+|2019.7.15|1）潘长立<br>（目标检测）|《anchor 小结》||
+|2019.7.15|2）赵杨<br>（EM，分类）|《Patch-based convolutional neural network for whole slide tissue image classification》 (重讲)（CVPR-2016）||
+|2019.7.8|1）孙婉欣<br>（目标检测）|《FoveaBox: Beyond Anchor-based Object Detector》(arXiv 2019)||
+|2019.7.8|2）陈佳林<br>（GAN）|《Feedback Adversarial Learning: Spatial Feedback for Improving Generative Adversarial Networks》（CVPR-2019）《Unsupervised attention-guided image-to-image translation》（NIPS-2018）||
+|2019.7.1|1）王都<br>（语义分割）|《Fast-SCNN: Fast Semantic Segmentation Network》(arXiv 2019)||
+|2019.7.1|2）程海涛<br>（多聚焦图像融合）|《Multi-scale convolutional neural network for multi-focus image fusion》（IVC-2019）||
+|2019.6.24|1）冯硕<br>（CNN）|《EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks》(arXiv 2019)||
+|2019.6.24|2）赵杨<br>（CNN）|《Patch-based convolutional neural network for whole slide tissue image classification》（CVPR-2016）||
+|2019.6.19|1）尹志华<br>（可视化）|《Grad-cam: Visual explanations from deep networks via gradient-based localization》(CVPR 2017)||
+|2019.6.19|2）何柱君<br>（CNN）|[《Kervolutional Neural Networks》（CVPR-2019）](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Kervolutional_Neural_Networks_CVPR_2019_paper.pdf)||
+|2019.6.10|1）潘长立<br>（目标检测）|[《Bounding Box Regression with Uncertainty for Accurate Object Detection》（CVPR-2019）](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bounding_Box_Regression_With_Uncertainty_for_Accurate_Object_Detection_CVPR_2019_paper.pdf)||
+|2019.6.3|1）严勐<br>（目标检测）|[《DetNet：A Backbone network for Object Detection》（arXiv 2018）](https://arxiv.org/pdf/1804.06215)<br>[《Scale-Aware Trident Networks for Object Detection》（ICCV 2019）](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Scale-Aware_Trident_Networks_for_Object_Detection_ICCV_2019_paper.pdf)||
+|2019.5.27|1）程海涛<br>（多聚焦融合）|《Ensemble of CNN for multi-focus image fusion》<br> 《MCFNet: Multi-layer Concatenation Fusion Network for Medical Images Fusion》||
+|2019.5.27|2）陈佳林<br>（多聚焦融合）|《FuseGAN: Learning to fuse Multi-focus Image via Conditional Generative Adversarial Network》||
+|2019.5.20|1）何柱君<br>（自动聚焦）|《An image auto-focusing algorithm for industrial image measurement》<br>《Combining gradient ascent search and support vector machines for effective autofocus of a field emission--scanning electron microscope》<br>《A Robotic Auto-Focus System based on Deep Reinforcement Learning》||
+|2019.5.13|1）潘长立<br>（对抗样本）|对抗样本||
+|2019.5.13|2）孙婉欣<br>（anchor-free）|《Region Proposal by Guided Anchoring》<br>《Feature Selective Anchor-Free Module for Single-Shot Object Detection》||
+|2019.5.6|1）尹志华<br>（anchor free objection detection-one stage）|近期工作小节||
+|2019.5.6|2）严勐<br>（light weight network）|近期工作小节||
+|2019.4.29|1）程海涛<br>（图像配准、融合）|《An Unsupervised Learning Model for Deformable Medical Image Registration》<br>《DenseFuse: A Fusion Approach to Infrared and Visible Images》||
+|2019.4.29|2）何柱君<br>（loss function）|《Large-margin softmax loss for convolutional neural networks》<br>《Rethinking Feature Distribution for Loss Functions in Image Classification》||
+|2019.4.22|1）潘长立<br>（CNN）|《Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution》||
+|2019.4.22|2）陈佳林<br>（GAN）|《GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium》<br>《Spectral Normalization for Generative Adversarial Networks》<br>《Self-Attention Generative Adversarial Networks》<br>《Large Scale GAN Training for High Fidelity Natural Image Synthesis》||
+|2019.4.15|1）孙婉欣<br>（目标检测）|《An analysis of scale invariance in object detection snip》<br>《SNIPER: Efficient multi-scale training》||
+|2019.4.15|2）尹志华<br>（图像分割）|《TensorMask: A Foundation for Dense Object Segmentation》<br>《YOLACT: Real-time Instance Segmentation》||
+|2019.4.8|1）严勐<br>（目标检测）| 近期工作总结（attention、noisy-label）||
+|2019.3.31|1）张帆<br>（图像质量评价）| 《RAN4IQA: Restorative Adversarial Nets for No-Reference Image Quality Assessment》<br>《No-reference Image Quality Assessment with Reinforcement Recursive List-wise Ranking》||
+|2019.3.31|2）何柱君<br>（BN）| 《How Does Batch Normalization Help Optimization?》||
+|2019.3.25|1）唐志鸿<br>（目标检测+分割）| 《Merged Mask-RNN with boosting feature pyramid network》
+|2019.3.25|2）陈佳林<br>（头脑风暴）| 染色归一化和图像分割||
+|2019.3.22|1）张帆<br>（图像质量评价）|头脑风暴： 《基于深度卷积神经网络的数字图像质量评价》
+|2019.3.22|2）严勐<br>（目标检测）| 头脑风暴：《基于特征金字塔网络（FPN）的细胞检测》||
+|2019.3.17|1）孙婉欣<br>（细胞检测）| 头脑风暴：《  基于 yolov3 的宫颈细胞自动检测算法》||
+|2019.3.17|2）潘长立<br>（细胞检测）| 头脑风暴：《  基于 yolov3 的宫颈细胞自动检测算法》||
+|2019.3.11|1）陈佳林<br>染色归一化|StainGAN+Adaptive color deconvolution
+|2019.3.11|2）何柱君<br>（自动聚焦）| 头脑风暴：《 基于深度卷积神经网络的光学显微镜自动聚焦算法》||
+|2019.3.4|1）尹志华<br>（Extreme point）| 《ExtremeNet: Bottom-up Object Detection by Grouping Extreme and Center Points》  <br> 《Deep Extreme Cut：From Extreme Points to Object Segmentation》
+|2019.3.4|2）何柱君<br>（Face Alignment）| 《Face Alignment by Explicit Shape Regression》 <br> 《Supervised Descent Method and Its Applications to Face Alignment》||
+|2019.3.4|3）唐志鸿 | 近期工作总结||
+|2019.2.25|1）程海涛<br>（图像融合）| 《Image Segmentation-Based Multi-Focus Image Fusion Through Multi-Scale Convolutional Neural Network》 <br> 《Infrared and Visible Image Fusion using a Deep Learning Framework》||
+|2019.2.25|2）潘长立<br>（目标检测）| 《Bag of Freebies for Training Object Detection Neural Networks mixup》 ||
+|2019.2.25|3）张帆<br>（图像质量评价）| Learning to rank 小结 ||
+|2019.1.21|1）陈佳林<br>（染色归一化）| 《Color normalization in digital histopathology images》 <br> 《Comparison of Normalization Algorithms for Cross-Batch Color Segmentation of Histopathological Images》 <br> 《EM-based segmentation-driven color standardization of digitized histopathology》||
+|2019.1.21|2）严勐<br>（图像分类）| inception famliy 小结 ||
+|2019.1.14|1）潘长立<br>（目标检测中的对抗训练）| a-fast-rcnn ||
+|2019.1.14|1）尹志华<br>（语义分割）| 《DecoupleedNet （NIPS 2015）》 <br> 《E-Net（2016）& LinkNet（VCIP 2017）》 <br> 《RefineNet（CVPR 2017）》  <br> 《PSPNet（CVPR 2017）》  <br> 《FC-DenseNet（CVPR 2017）》  <br> 《DeepLab v3+（ECCV 2018）》 ||
+|2019.1.7|1）何柱君<br>（自动聚焦）| 《Efficient auto-focus algorithm utilizing discrete difference equation prediction model for digital still cameras》 ||
+|2019.1.7|2）程海涛<br>（图像融合）| 《Multi-focus image fusion with a deep convolutional neural network》,《Pixel convolutional neural network for multi-focus image fusion ||
+|2018.12.24|1）张帆<br>（图像质量评价）| 无参考图像质量评价算法小结 ||
+|2018.12.24|1）孙婉欣<br>（目标检测）| PFPNet（目标检测中的特征金字塔） ||
+|2018.12.17|1）毛渊<br>（图像融合）| 近期工作总结 ||
+|2018.12.10|1）尹志华<br>（语义分割）| DeepLab系列 ||
+|2018.12.10|2）陈佳林<br>（染色归一化）| 《Color transfer between images》 <br> 《Quantification of histochemical staining by color deconvolution》||
+|2018.12.10|3）潘长立<br>（对抗训练）| DefenseGAN ||
+|2018.12.3|1）何柱君<br>（ normalization）| BN、SyncBN、Group Normalization ||
+|2018.12.3|2）程海涛<br>（ 图像融合）| DeepFuse ||
 **[⬆ back to top](#组内资料分享)**
