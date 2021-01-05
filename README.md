@@ -9,7 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2020.12.31|1. 梁毅雄<br>（自监督学习） |[Self-supervised learning in Computer Vision ](http://pan.csu.edu.cn:80/link/B8301B42F076266F796E0F123A188505 ) ||
+|2021.1.7|1. 梁毅雄<br>（自监督学习） |[Self-supervised learning in Computer Vision ](http://pan.csu.edu.cn:80/link/B6A95A179CEADE492DCD859A2DAC65C6) ||
 |2020.12.24|1. 冯硕<br>（目标检测） |[《End-to-End Object Detection with Fully Convolutional Network》 （arXiv 2020） ](https://arxiv.org/abs/2012.03544 ) ||
 |2020.12.24|2. 刘浩天<br>（网络结构） |[《LambdaNetworks: Modeling long-range Interactions without Attention》 （arXiv 2020） ](https://openreview.net/pdf?id=xTJEN-ggl1b) ||
 |2020.12.17|1. 尹志华<br>（对比学习） |[《Dense Contrastive Learning for Self-Supervised Visual Pre-Training》 （arXiv 2020） ](https://arxiv.org/abs/2011.09157 ) ||
