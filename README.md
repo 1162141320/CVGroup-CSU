@@ -10,7 +10,7 @@ List shared papers in our group
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2021.1.14|1. 赵嘉伟<br>（对比学习） |[《Hierarchical Semantic Aggregation for Contrastive Representation Learning》 （arXiv 2020） ](https://arxiv.org/abs/2012.02733 ) ||
-|2021.1.14|2. 耿瑞祥<br>（网络结构） |[《Hierarchical Semantic Aggregation for Contrastive Representation Learning》 （arXiv 2020） ](https://arxiv.org/abs/2012.02733 ) ||
+|2021.1.14|2. 耿瑞祥<br>（网络结构） |[《Funnel Activation for Visual Recognition》 （ECCV 2020） ](https://arxiv.org/abs/2007.11824) ||
 |2021.1.7|1. 梁毅雄<br>（自监督学习） |[Self-supervised learning in Computer Vision ](http://pan.csu.edu.cn:80/link/B6A95A179CEADE492DCD859A2DAC65C6) ||
 |2020.12.24|1. 冯硕<br>（目标检测） |[《End-to-End Object Detection with Fully Convolutional Network》 （arXiv 2020） ](https://arxiv.org/abs/2012.03544 ) ||
 |2020.12.24|2. 刘浩天<br>（网络结构） |[《LambdaNetworks: Modeling long-range Interactions without Attention》 （arXiv 2020） ](https://openreview.net/pdf?id=xTJEN-ggl1b) ||
