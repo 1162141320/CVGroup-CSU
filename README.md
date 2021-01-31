@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.2.1|1. 王都<br>（目标检测） |[《Probabilistic Anchor Assignment with IoU Prediction for Object Detection》 （ECCV 2020） ](https://arxiv.org/abs/2007.08103 ) ||
+|2021.2.1|2. 赵杨<br>（对比学习） |[《Self-EMD: Self-Supervised Object Detection without ImageNet》 （arXiv 2020）](https://arxiv.org/abs/2011.13677) ||
 |2021.1.21|1. 张永胜<br>（语义分割） |[《Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers》 （arXiv 2020）  ](https://arxiv.org/abs/2012.15840) ||
 |2021.1.21|2. 邬任重<br>（AEV） |[《Auto-Encoding Variational Bayes》 （ICLR 2014）](https://arxiv.org/abs/1312.6114) ||
 |2021.1.14|1. 赵嘉伟<br>（对比学习） |[《Hierarchical Semantic Aggregation for Contrastive Representation Learning》 （arXiv 2020） ](https://arxiv.org/abs/2012.02733 ) ||
