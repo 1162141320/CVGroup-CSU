@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.2.8|1. 苑思明<br>（语义分割） |[《EfficientFCN: Holistically-guided Decoding for Semantic Segmentation》 （ECCV 2020） ](https://arxiv.org/abs/2008.10487  ) ||
+|2021.2.8|2. 尹志华<br>（网络结构） |[《RepVGG: Making VGG-style ConvNets Great Again》 （arXiv 2021）](https://arxiv.org/abs/2101.03697) ||
 |2021.2.1|1. 王都<br>（目标检测） |[《Probabilistic Anchor Assignment with IoU Prediction for Object Detection》 （ECCV 2020） ](https://arxiv.org/abs/2007.08103 ) ||
 |2021.2.1|2. 赵杨<br>（对比学习） |[《Self-EMD: Self-Supervised Object Detection without ImageNet》 （arXiv 2020）](https://arxiv.org/abs/2011.13677) ||
 |2021.1.21|1. 张永胜<br>（语义分割） |[《Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers》 （arXiv 2020）  ](https://arxiv.org/abs/2012.15840) ||
