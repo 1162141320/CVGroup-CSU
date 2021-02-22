@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.2.22|1. 苑思明<br>（目标检测） |[《Fast Convergence of DETR with Spatially Modulated Co-Attention》 （arXiv 2020） ](https://arxiv.org/abs/2101.07448  ) ||
+|2021.2.22|2. 何柱君<br>（自监督学习） |[《Instance Localization for Self-supervised Detection Pretraining》 （arXiv 2021）](https://arxiv.org/abs/2102.08318) ||
 |2021.2.8|1. 苑思明<br>（语义分割） |[《EfficientFCN: Holistically-guided Decoding for Semantic Segmentation》 （ECCV 2020） ](https://arxiv.org/abs/2008.10487  ) ||
 |2021.2.8|2. 尹志华<br>（网络结构） |[《RepVGG: Making VGG-style ConvNets Great Again》 （arXiv 2021）](https://arxiv.org/abs/2101.03697) ||
 |2021.2.1|1. 王都<br>（目标检测） |[《Probabilistic Anchor Assignment with IoU Prediction for Object Detection》 （ECCV 2020） ](https://arxiv.org/abs/2007.08103 ) ||
