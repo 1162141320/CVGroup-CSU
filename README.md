@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.3.1|1. 陈佳林<br>（目标检测） |[《Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis》 （ICLR 2021）](https://arxiv.org/abs/2101.04775 ) ||
+|2021.3.1|2. 李阳<br>（语义分割） |[《Hierarchical Multi-Scale Attention for Semantic Segmentation》 （arXiv 2020）](https://arxiv.org/abs/2005.10821) ||
 |2021.2.22|1. 苑思明<br>（目标检测） |[《Fast Convergence of DETR with Spatially Modulated Co-Attention》 （arXiv 2020） ](https://arxiv.org/abs/2101.07448  ) ||
 |2021.2.22|2. 何柱君<br>（自监督学习） |[《Instance Localization for Self-supervised Detection Pretraining》 （arXiv 2021）](https://arxiv.org/abs/2102.08318) ||
 |2021.2.8|1. 苑思明<br>（语义分割） |[《EfficientFCN: Holistically-guided Decoding for Semantic Segmentation》 （ECCV 2020） ](https://arxiv.org/abs/2008.10487  ) ||
