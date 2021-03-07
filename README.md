@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.3.8|1. 冯硕<br>（目标检测） |[《UP-DETR: Unsupervised Pre-training for Object Detection with Transformers》 （CVPR 2021） ](https://arxiv.org/abs/2011.09094 ) ||
+|2021.3.8|2. 赵嘉伟<br>（增量学习） |[《PLOP: Learning without Forgetting for Continual Semantic Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2011.11390) ||
 |2021.3.1|1. 陈佳林<br>（目标检测） |[《Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis》 （ICLR 2021）](https://arxiv.org/abs/2101.04775 ) ||
 |2021.3.1|2. 李阳<br>（语义分割） |[《Hierarchical Multi-Scale Attention for Semantic Segmentation》 （arXiv 2020）](https://arxiv.org/abs/2005.10821) ||
 |2021.2.22|1. 苑思明<br>（目标检测） |[《Fast Convergence of DETR with Spatially Modulated Co-Attention》 （arXiv 2020） ](https://arxiv.org/abs/2101.07448  ) ||
