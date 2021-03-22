@@ -9,8 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.3.22|1. 刘浩天<br>（目标检测） |[《You Only Look One-level Feature》 （CVPR 2021） ](https://arxiv.org/abs/2103.09460v1 ) ||
+|2021.3.22|2. 张永胜<br>（语义分割） |[《Learning Statistical Texture for Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.04133) ||
 |2021.3.15|1. 耿瑞祥<br>（Transformer） |[《Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions》 （arXiv 2021） ](https://arxiv.org/abs/2102.12122 ) ||
-|2021.3.15|2. 邬任重<br>（关键点检测） |[《3FabRec: Fast Few-shot Face alignment by Reconstruction》 （CVPR 2021）](https://arxiv.org/abs/1911.10448) ||
+|2021.3.15|2. 邬任重<br>（关键点检测） |[《3FabRec: Fast Few-shot Face alignment by Reconstruction》 （CVPR 2020）](https://arxiv.org/abs/1911.10448) ||
 |2021.3.8|1. 冯硕<br>（目标检测） |[《UP-DETR: Unsupervised Pre-training for Object Detection with Transformers》 （CVPR 2021） ](https://arxiv.org/abs/2011.09094 ) ||
 |2021.3.8|2. 赵嘉伟<br>（增量学习） |[《PLOP: Learning without Forgetting for Continual Semantic Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2011.11390) ||
 |2021.3.1|1. 陈佳林<br>（目标检测） |[《Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis》 （ICLR 2021）](https://arxiv.org/abs/2101.04775 ) ||
