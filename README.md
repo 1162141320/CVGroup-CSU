@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.3.29|1. 赵嘉伟<br>（目标检测） |[《Towards Open World Object Detection》 （CVPR 2021） ](https://arxiv.org/abs/2103.02603  ) ||
+|2021.3.29|2. 王都<br>（目标检测） |[《Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection》 （CVPR 2021）](https://arxiv.org/abs/2011.12885) ||
 |2021.3.22|1. 刘浩天<br>（目标检测） |[《You Only Look One-level Feature》 （CVPR 2021） ](https://arxiv.org/abs/2103.09460v1 ) ||
 |2021.3.22|2. 张永胜<br>（语义分割） |[《Learning Statistical Texture for Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.04133) ||
 |2021.3.15|1. 耿瑞祥<br>（Transformer） |[《Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions》 （arXiv 2021） ](https://arxiv.org/abs/2102.12122 ) ||
