@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.4.6|1. 李阳<br>（语义分割） |[Capturing Omni-Range Context for Omnidirectional Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.05687  ) ||
+|2021.4.6|2. 苑思明<br>（数据增广） |[《KeepAugment: A Simple Information-Preserving Data Augmentation Approach》 （CVPR 2021） ](https://arxiv.org/abs/2011.11778) ||
 |2021.3.29|1. 赵嘉伟<br>（目标检测） |[《Towards Open World Object Detection》 （CVPR 2021） ](https://arxiv.org/abs/2103.02603  ) ||
 |2021.3.29|2. 王都<br>（目标检测） |[《Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection》 （CVPR 2021）](https://arxiv.org/abs/2011.12885) ||
 |2021.3.22|1. 刘浩天<br>（目标检测） |[《You Only Look One-level Feature》 （CVPR 2021） ](https://arxiv.org/abs/2103.09460v1 ) ||
