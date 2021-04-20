@@ -9,7 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2021.4.13|1. 邬任重<br>（GAN） |[《Towards Real-World Blind Face Restoration with Generative Facial Prior》 （arXiv 2021） ](https://arxiv.org/abs/2101.04061 ) ||
+|2021.4.20|1. 冯硕<br>（Transformer） |[《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》 （arXiv 2021）  ](https://arxiv.org/abs/2103.14030 ) ||
+|2021.4.20|2. 张永胜<br>（语义分割） |[《PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2103.15597) ||
+|2021.4.13|1. 邬任重<br>（GAN） |[《Towards Real-World Blind Face Restoration with Generative Facial Prior》 （arXiv 2021） ](https://arxiv.org/abs/2103.06564) ||
 |2021.4.13|2. 耿瑞祥<br>（语义分割） |[《RobustNet： Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening》 （CVPR 2021） ](https://arxiv.org/abs/2103.15597) ||
 |2021.4.6|1. 李阳<br>（语义分割） |[Capturing Omni-Range Context for Omnidirectional Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.05687  ) ||
 |2021.4.6|2. 苑思明<br>（数据增广） |[《KeepAugment: A Simple Information-Preserving Data Augmentation Approach》 （CVPR 2021） ](https://arxiv.org/abs/2011.11778) ||
