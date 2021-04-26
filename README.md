@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.4.27|1. 王都<br>（目标检测） |[《VarifocalNet: An IoU-aware Dense Object Detector》 （CVPR 2021） ](https://arxiv.org/abs/2008.13367 ) ||
+|2021.4.27|2. 刘浩天<br>（语义分割） |[《InverseForm: A Loss Function for Structured Boundary-Aware Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2104.02745v2) ||
 |2021.4.20|1. 冯硕<br>（Transformer） |[《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》 （arXiv 2021）  ](https://arxiv.org/abs/2103.14030 ) ||
 |2021.4.20|2. 张永胜<br>（语义分割） |[《PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2103.15597) ||
 |2021.4.13|1. 邬任重<br>（GAN） |[《Towards Real-World Blind Face Restoration with Generative Facial Prior》 （arXiv 2021） ](https://arxiv.org/abs/2103.06564) ||
