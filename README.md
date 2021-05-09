@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.5.11|1. 苑思明<br>（语义分割） |[《Rethinking BiSeNet For Real-time Semantic Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2104.13188  ) ||
+|2021.5.11|2. 尹志华<br>（Attention） |[《Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth》 （arXiv 2021）](https://arxiv.org/abs/2103.03404) ||
 |2021.4.27|1. 王都<br>（目标检测） |[《VarifocalNet: An IoU-aware Dense Object Detector》 （CVPR 2021） ](https://arxiv.org/abs/2008.13367 ) ||
 |2021.4.27|2. 刘浩天<br>（语义分割） |[《InverseForm: A Loss Function for Structured Boundary-Aware Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2104.02745v2) ||
 |2021.4.20|1. 冯硕<br>（Transformer） |[《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》 （arXiv 2021）  ](https://arxiv.org/abs/2103.14030 ) ||
