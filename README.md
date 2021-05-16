@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.5.18|1. 潘长立<br>（网络结构） |[《Involution: Inverting the Inherence of Convolution for Visual Recognition》 （CVPR 2021）](https://arxiv.org/abs/2103.06255) ||
+|2021.5.18|2. 赵嘉伟<br>（增量学习） |[《Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning》 （CVPR 2021）](https://arxiv.org/abs/2012.04324) ||
 |2021.5.11|1. 苑思明<br>（语义分割） |[《Rethinking BiSeNet For Real-time Semantic Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2104.13188  ) ||
 |2021.5.11|2. 尹志华<br>（Attention） |[《Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth》 （arXiv 2021）](https://arxiv.org/abs/2103.03404) ||
 |2021.4.27|1. 王都<br>（目标检测） |[《VarifocalNet: An IoU-aware Dense Object Detector》 （CVPR 2021） ](https://arxiv.org/abs/2008.13367 ) ||
