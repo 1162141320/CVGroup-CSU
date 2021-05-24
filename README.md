@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.5.25|1. 耿瑞祥<br>（语义分割） |[《FSDR: Frequency Space Domain Randomization for Domain Generalization》 （CVPR 2021）](https://arxiv.org/abs/2103.02370 ) ||
+|2021.5.25|2. 张永胜<br>（无监督学习） |[《Jigsaw Clustering for Unsupervised Visual Representation Learning》 （CVPR 2021） ](https://arxiv.org/abs/2104.00323) ||
 |2021.5.18|1. 潘长立<br>（网络结构） |[《Involution: Inverting the Inherence of Convolution for Visual Recognition》 （CVPR 2021）](https://arxiv.org/abs/2103.06255) ||
 |2021.5.18|2. 赵嘉伟<br>（增量学习） |[《Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning》 （CVPR 2021）](https://arxiv.org/abs/2012.04324) ||
 |2021.5.11|1. 苑思明<br>（语义分割） |[《Rethinking BiSeNet For Real-time Semantic Segmentation》 （CVPR 2021）](https://arxiv.org/abs/2104.13188  ) ||
