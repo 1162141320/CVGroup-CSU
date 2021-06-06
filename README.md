@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.6.7|1. 陈佳林<br>（GAN） |[《Analyzing and Improving the Image Quality of StyleGAN》 （CVPR 2020）](https://arxiv.org/abs/1912.04958) ||
+|2021.6.7|2. 赵嘉伟<br>（Transformer） |[《An Attention Free Transformer》 （arXiv 2021） ](https://arxiv.org/abs/2105.14103) ||
 |2021.6.1|1. 冯硕<br>（Transformer） |[《Aggregating Nested Transformers》 （arXiv 2021）](https://arxiv.org/abs/2105.12723  ) ||
 |2021.6.1|2. 刘浩天<br>（Transformer） |[《Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks》 （arXiv 2021） ](https://arxiv.org/abs/2105.02358v1) ||
 |2021.5.25|1. 耿瑞祥<br>（语义分割） |[《FSDR: Frequency Space Domain Randomization for Domain Generalization》 （CVPR 2021）](https://arxiv.org/abs/2103.02370 ) ||
