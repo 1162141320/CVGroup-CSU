@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.6.15|1. 何柱君<br>（特征交互） |[《Learning Attentive Pairwise Interaction for Fine-Grained Classification》 （AAAI 2020）](https://arxiv.org/abs/2002.10191) ||
+|2021.6.15|2. 赵杨<br>（Transformer） |[《Conditional Positional Encodings for Vision Transformers》 （arXiv 2021）](https://arxiv.org/abs/2102.10882) ||
 |2021.6.7|1. 陈佳林<br>（GAN） |[《Analyzing and Improving the Image Quality of StyleGAN》 （CVPR 2020）](https://arxiv.org/abs/1912.04958) ||
 |2021.6.7|2. 赵嘉伟<br>（Transformer） |[《An Attention Free Transformer》 （arXiv 2021） ](https://arxiv.org/abs/2105.14103) ||
 |2021.6.1|1. 冯硕<br>（Transformer） |[《Aggregating Nested Transformers》 （arXiv 2021）](https://arxiv.org/abs/2105.12723  ) ||
