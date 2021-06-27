@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.6.28|1. 张永胜<br>（自监督学习） |[《Spatially Consistent Representation Learning》 （CVPR 2021）](https://arxiv.org/abs/2103.06122 ) ||
+|2021.6.28|2. 曾海龙<br>（Transformer） |[《DeepViT: Towards Deeper Vision Transformer》 （arXiv 2021） ](https://arxiv.org/abs/2103.11886 ) ||
 |2021.6.21|1. 王都<br>（BN） |[《Representative Batch Normalization with Feature Calibration》 （CVPR 2021）](http://mmcheng.net/mftp/Papers/21CVPR-BN.pdf ) ||
 |2021.6.21|2. 耿瑞祥<br>（Domain Generalization） |[《Gradient Matching for Domain Generalization》 （arXiv 2021） ](https://arxiv.org/abs/2104.09937) ||
 |2021.6.15|1. 何柱君<br>（特征交互） |[《Learning Attentive Pairwise Interaction for Fine-Grained Classification》 （AAAI 2020）](https://arxiv.org/abs/2002.10191) ||
