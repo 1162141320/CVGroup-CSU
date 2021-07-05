@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.7.5|1.  刘浩天<br>（Transformer） |[《Training data-efficient image transformers & distillation through attention》 （DeiT）](https://arxiv.org/abs/2012.12877v2  ) ||
+|2021.7.5|2.  刘浩天<br>（Transformer） |[《CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows》 （arXiv 2021）](https://arxiv.org/abs/2107.00652v1) ||
 |2021.6.28|1. 张永胜<br>（自监督学习） |[《Spatially Consistent Representation Learning》 （CVPR 2021）](https://arxiv.org/abs/2103.06122 ) ||
 |2021.6.28|2. 曾海龙<br>（Transformer） |[《DeepViT: Towards Deeper Vision Transformer》 （arXiv 2021） ](https://arxiv.org/abs/2103.11886 ) ||
 |2021.6.21|1. 王都<br>（BN） |[《Representative Batch Normalization with Feature Calibration》 （CVPR 2021）](http://mmcheng.net/mftp/Papers/21CVPR-BN.pdf ) ||
