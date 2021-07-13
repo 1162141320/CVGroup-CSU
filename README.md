@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.7.12|1.  耿瑞祥<br>（Domain Generalization） |[《Training data-efficient image transformers & distillation through attention》 （DeiT）](https://arxiv.org/abs/2012.12877v2  ) ||
+|2021.7.12|2.  耿瑞祥<br>（Domain Generalization） |[《CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows》 （arXiv 2021）](https://arxiv.org/abs/2107.00652v1) ||
 |2021.7.5|1.  刘浩天<br>（Transformer） |[《Training data-efficient image transformers & distillation through attention》 （DeiT）](https://arxiv.org/abs/2012.12877v2  ) ||
 |2021.7.5|2.  刘浩天<br>（Transformer） |[《CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows》 （arXiv 2021）](https://arxiv.org/abs/2107.00652v1) ||
 |2021.6.28|1. 张永胜<br>（自监督学习） |[《Spatially Consistent Representation Learning》 （CVPR 2021）](https://arxiv.org/abs/2103.06122 ) ||
