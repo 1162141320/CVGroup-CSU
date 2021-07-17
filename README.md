@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.7.19|1.  张永胜<br>（自监督学习） |[《Unsupervised Object-Level Representation Learning from Scene Images》 （arxiv 2021）](https://arxiv.org/pdf/2106.11952v1.pdf ) ||
+|2021.7.19|2.  张永胜<br>（自监督学习） |[《Towards Solving Inefficiency of Self-supervised Representation Learning》 （arxiv 2021）](https://arxiv.org/pdf/2104.08760v2.pdf) ||
 |2021.7.12|1.  耿瑞祥<br>（Domain Generalization） |[《Domain Generalization with MixStyle》 （ICLR 2021） ](https://arxiv.org/abs/2104.02008v1) ||
 |2021.7.12|2.  耿瑞祥<br>（Domain Generalization） |[《Reducing Domain Gap by Reducing Style Bias》 （CVPR 2021）](https://arxiv.org/abs/1910.11645v4 ) ||
 |2021.7.5|1.  刘浩天<br>（Transformer） |[《Training data-efficient image transformers & distillation through attention》 （DeiT）](https://arxiv.org/abs/2012.12877v2  ) ||
