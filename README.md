@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.8.2|1.  曾海龙 <br>（知识蒸馏） |[《Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels》 （CVPR 2021）](hhttps://arxiv.org/abs/2101.05022) ||
+|2021.8.2|2.  曾海龙 <br>（知识蒸馏） |[《All Tokens Matter: Token Labeling for Training Better Vision Transformers》 （arxiv 2021）](https://arxiv.org/abs/2104.10858) ||
 |2021.7.19|1.  张永胜<br>（自监督学习） |[《Unsupervised Object-Level Representation Learning from Scene Images》 （arxiv 2021）](https://arxiv.org/pdf/2106.11952v1.pdf ) ||
 |2021.7.19|2.  张永胜<br>（自监督学习） |[《Towards Solving Inefficiency of Self-supervised Representation Learning》 （arxiv 2021）](https://arxiv.org/pdf/2104.08760v2.pdf) ||
 |2021.7.12|1.  耿瑞祥<br>（Domain Generalization） |[《Domain Generalization with MixStyle》 （ICLR 2021） ](https://arxiv.org/abs/2104.02008v1) ||
