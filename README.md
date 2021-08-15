@@ -9,7 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2021.8.2|1.  曾海龙 <br>（知识蒸馏） |[《Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels》 （CVPR 2021）](hhttps://arxiv.org/abs/2101.05022) ||
+|2021.8.16|1.  耿瑞祥 <br>（Domain Generalization） |[《A Fourier-based Framework for Domain Generalization》 （CVPR 2021 Oral）](https://arxiv.org/abs/2105.11120) ||
+|2021.8.16|2.  耿瑞祥 <br>（Domain Generalization） |[《SAND-mask: An Enhanced Gradient Masking Strategy for the Discovery of Invariances in Domain Generalization》 （arXiv 2021）](https://arxiv.org/abs/2106.02266) ||
+|2021.8.9|1.  刘浩天 <br>（目标检测） |[《Dynamic ReLU》 （ECCV 2020）](https://arxiv.org/abs/2003.10027v2) ||
+|2021.8.9|2.  刘浩天 <br>（目标检测） |[《Dynamic Head: Unifying Object Detection Heads with Attentions》 （CVPR 2021）](https://arxiv.org/abs/2106.08322v1) ||
+|2021.8.2|1.  曾海龙 <br>（知识蒸馏） |[《Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels》 （CVPR 2021）](https://arxiv.org/abs/2101.05022) ||
 |2021.8.2|2.  曾海龙 <br>（知识蒸馏） |[《All Tokens Matter: Token Labeling for Training Better Vision Transformers》 （arxiv 2021）](https://arxiv.org/abs/2104.10858) ||
 |2021.7.19|1.  张永胜<br>（自监督学习） |[《Unsupervised Object-Level Representation Learning from Scene Images》 （arxiv 2021）](https://arxiv.org/pdf/2106.11952v1.pdf ) ||
 |2021.7.19|2.  张永胜<br>（自监督学习） |[《Towards Solving Inefficiency of Self-supervised Representation Learning》 （arxiv 2021）](https://arxiv.org/pdf/2104.08760v2.pdf) ||
