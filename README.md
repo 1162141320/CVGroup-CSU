@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.8.23|1.  张永胜 <br>（对比学习） |[《DetCo: Unsupervised Contrastive Learning for Object Detection》 （ICCV 2021）](https://arxiv.org/abs/2102.04803 ) ||
+|2021.8.23|2.  张永胜 <br>（对比学习） |[《Improving Contrastive Learning by Visualizing Feature Transformation》 （ICCV 2021 Oral） ](https://arxiv.org/abs/2102.04803 ) ||
 |2021.8.16|1.  耿瑞祥 <br>（Domain Generalization） |[《A Fourier-based Framework for Domain Generalization》 （CVPR 2021 Oral）](https://arxiv.org/abs/2105.11120) ||
 |2021.8.16|2.  耿瑞祥 <br>（Domain Generalization） |[《SAND-mask: An Enhanced Gradient Masking Strategy for the Discovery of Invariances in Domain Generalization》 （arXiv 2021）](https://arxiv.org/abs/2106.02266) ||
 |2021.8.9|1.  刘浩天 <br>（目标检测） |[《Dynamic ReLU》 （ECCV 2020）](https://arxiv.org/abs/2003.10027v2) ||
@@ -74,20 +76,20 @@ List shared papers in our group
 |2020.12.10|2. 王都<br>（目标检测） |[《Deformable DETR: Deformable Transformers for End-to-End Object Detection》 （arXiv 2020）](https://arxiv.org/abs/2010.04159) ||
 |2020.12.03|1. 潘长立<br>（目标检测） |[《Dive Deeper Into Box for Object Detection》 （ECCV 2020）](https://arxiv.org/abs/2007.14350) ||
 |2020.12.03|2. 张永胜<br>（语义分割） |[《CCNet：Criss-Cross Attention for Semantic Segmentation》 （ICCV 2019）](https://arxiv.org/abs/1811.11721) ||
-|2020.11.26|1. 李阳<br>（语义分割） |《mining cross-image semantics for weakly supervised semantic segmentation》 （ECCV 2020） ||
-|2020.11.26|2. 耿瑞祥<br>（目标检测） |《Missing Labels in Object Detection》 （CVPR 2019） ||
-|2020.11.16|1. 何柱君<br>（目标检测） |《RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder》 （NIPS 2020） ||
-|2020.11.16|2. 邬任重<br>（VAE、GAN） |《Bringing Old Photos Back to Life》 （CVPR 2020 oral） ||
-|2020.11.09|1. 冯硕<br>（目标检测） |《Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection》 （NIPS 2020） ||
-|2020.11.09|2. 赵嘉伟<br>（增量学习） |《Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation》 （ECCV 2020） ||
-|2020.11.02|1. 刘浩天<br>（长尾问题） |《Feature Space Augmentation for Long-Tailed Data》 （ECCV 2020） ||
-|2020.11.02|2. 赵杨<br>（目标检测） |《LabelEnc: A New Intermediate Supervision Method for Object Detection》 （ECCV 2020） ||
-|2020.10.26|1. 苑思明<br>（检测、分割） |《Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation》 （ECCV 2020） ||
-|2020.10.26|2. 张永胜<br>（对比学习） |《Contrastive learning of global and local features for medical image segmentation with limited annotations》 （NIPS 2020） ||
-|2020.10.19|1. 赵嘉伟<br>（增量学习） |《Incremental Few-Shot Object Detection》 （CVPR 2020） ||
-|2020.10.19|2. 耿瑞祥<br>（对比学习） |《Prototypical Contrastive Learning of Unsupervised Representations》 （arXiv 2020） ||
-|2020.10.12|1. 王都<br>（网络结构） |《Visual Transformers: Token-based Image Representation and Processing for Computer Vision》 （arXiv 2020） ||
-|2020.10.12|2. 赵杨<br>（对比学习） |《Hard Negative Mixing for Contrastive Learning》 （arXiv 2020） ||
+|2020.11.26|1. 李阳<br>（语义分割） |[ 《Mining cross-image semantics for weakly supervised semantic segmentation》 （ECCV 2020）](https://arxiv.org/pdf/2007.01947) ||
+|2020.11.26|2. 耿瑞祥<br>（目标检测） |[《Missing Labels in Object Detection》 （CVPR 2019）](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Weakly%20Supervised%20Learning%20for%20Real-World%20Computer%20Vision%20Applications/Xu_Missing_Labels_in_Object_Detection_CVPRW_2019_paper.pdf) ||
+|2020.11.16|1. 何柱君<br>（目标检测） |[《RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder》 （NIPS 2020）](https://arxiv.org/pdf/2010.15831) ||
+|2020.11.16|2. 邬任重<br>（VAE、GAN） |[《Bringing Old Photos Back to Life》 （CVPR 2020 oral）](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wan_Bringing_Old_Photos_Back_to_Life_CVPR_2020_paper.pdf) ||
+|2020.11.09|1. 冯硕<br>（目标检测） |[《Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection》 （NIPS 2020）](https://arxiv.org/pdf/2006.04388) ||
+|2020.11.09|2. 赵嘉伟<br>（增量学习） |[《Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation》 （ECCV 2020）](https://arxiv.org/pdf/2104.11939) ||
+|2020.11.02|1. 刘浩天<br>（长尾问题） |[《Feature Space Augmentation for Long-Tailed Data》 （ECCV 2020）](https://arxiv.org/pdf/2008.03673) ||
+|2020.11.02|2. 赵杨<br>（目标检测） |[《LabelEnc: A New Intermediate Supervision Method for Object Detection》 （ECCV 2020）](https://arxiv.org/pdf/2007.03282) ||
+|2020.10.26|1. 苑思明<br>（检测、分割） |[《Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation》 （ECCV 2020）](https://arxiv.org/pdf/2007.02846) ||
+|2020.10.26|2. 张永胜<br>（对比学习） |[《Contrastive learning of global and local features for medical image segmentation with limited annotations》 （NIPS 2020）](https://arxiv.org/pdf/2006.10511) ||
+|2020.10.19|1. 赵嘉伟<br>（增量学习） |[《Incremental Few-Shot Object Detection》 （CVPR 2020）](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf) ||
+|2020.10.19|2. 耿瑞祥<br>（对比学习） |[《Prototypical Contrastive Learning of Unsupervised Representations》 （arXiv 2020）](https://arxiv.org/pdf/2005.04966) ||
+|2020.10.12|1. 王都<br>（网络结构） |[《Visual Transformers: Token-based Image Representation and Processing for Computer Vision》 （arXiv 2020）](https://arxiv.org/pdf/2006.03677) ||
+|2020.10.12|2. 赵杨<br>（对比学习） |[《Hard Negative Mixing for Contrastive Learning》 （arXiv 2020）](https://arxiv.org/pdf/2010.01028) ||
 |2020.10.5|1. 李阳<br>（语义分割） |《Object-Contextual Representations for Semantic Segmentation》 （ECCV 2020） ||
 |2020.10.5|2. 邬任重<br>（自动编码） |《Adversarial Latent Autoencoders》 （CVPR 2020） ||
 |2020.9.28|1. 冯硕<br>（目标检测） |《RepPoints v2: Verification Meets Regression for Object Detection》 （arXiv 2020） ||
