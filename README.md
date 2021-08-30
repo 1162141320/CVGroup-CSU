@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.8.30|1.  曾海龙 <br>（语义分割） |[《Learning to Resize Images for Computer Vision Tasks》 （ICCV 2021）](https://arxiv.org/abs/2103.09950  ) ||
+|2021.8.30|2.  曾海龙 <br>（语义分割） |[《Per-Pixel Classification is Not All You Need for Semantic Segmentation》 （arxiv 2021）](https://arxiv.org/abs/2107.06278) ||
 |2021.8.23|1.  张永胜 <br>（对比学习） |[《DetCo: Unsupervised Contrastive Learning for Object Detection》 （ICCV 2021）](https://arxiv.org/abs/2102.04803 ) ||
 |2021.8.23|2.  张永胜 <br>（对比学习） |[《Improving Contrastive Learning by Visualizing Feature Transformation》 （ICCV 2021 Oral） ](https://arxiv.org/abs/2102.04803 ) ||
 |2021.8.16|1.  耿瑞祥 <br>（Domain Generalization） |[《A Fourier-based Framework for Domain Generalization》 （CVPR 2021 Oral）](https://arxiv.org/abs/2105.11120) ||
