@@ -9,7 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2021.8.30|1.  曾海龙 <br>（语义分割） |[《Learning to Resize Images for Computer Vision Tasks》 （ICCV 2021）](https://arxiv.org/abs/2103.09950  ) ||
+|2021.9.6|1.  李阳  <br>（图像分割） |[《PANet:Few-Shot Image Semantic Segmentation with Prototype Alignment》 （ICCV 2019）](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf  ) ||
+|2021.9.6|2.  李阳  <br>（图像分割） |[《Mining Latent Classes for Few-shot Segmentation》 （ICCV 2021 Oral） ](https://arxiv.org/abs/2103.15402 ) ||
+|2021.8.30|1.  曾海龙 <br>（图像缩放） |[《Learning to Resize Images for Computer Vision Tasks》 （ICCV 2021）](https://arxiv.org/abs/2103.09950  ) ||
 |2021.8.30|2.  曾海龙 <br>（语义分割） |[《Per-Pixel Classification is Not All You Need for Semantic Segmentation》 （arxiv 2021）](https://arxiv.org/abs/2107.06278) ||
 |2021.8.23|1.  张永胜 <br>（对比学习） |[《DetCo: Unsupervised Contrastive Learning for Object Detection》 （ICCV 2021）](https://arxiv.org/abs/2102.04803 ) ||
 |2021.8.23|2.  张永胜 <br>（对比学习） |[《Improving Contrastive Learning by Visualizing Feature Transformation》 （ICCV 2021 Oral） ](https://arxiv.org/abs/2102.04803 ) ||
