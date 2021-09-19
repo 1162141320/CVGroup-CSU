@@ -9,7 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2021.9.13|1. 耿瑞祥  <br>（Feature Representations） |[《Towards Learning Spatially Discriminative Feature Representations》 （ICCV 2021）](https://arxiv.org/abs/2109.01359v1 )
+|2021.9.20|1. 刘浩天  <br>（目标检测） |[《A Simple Semi-Supervised Learning Framework for Object Detection》 （arxiv 2020）](https://arxiv.org/abs/2005.04757v2  )
+|2021.9.20|2. 刘浩天  <br>（目标检测） |[《End-to-End Semi-Supervised Object Detection with Soft Teacher》 （ICCV 2021）](https://arxiv.org/abs/2106.09018v3)
+|2021.9.13|1. 耿瑞祥  <br>（Domain Generalization） |[《Towards Learning Spatially Discriminative Feature Representations》 （ICCV 2021）](https://arxiv.org/abs/2109.01359v1 )
 |2021.9.13|2. 耿瑞祥  <br>（Domain Generalization） |[《Embracing the Dark Knowledge: Domain Generalization Using Regularized Knowledge Distillation》 （ACM MM 2021）](https://arxiv.org/abs/2107.02629)
 |2021.9.6|1.  李阳  <br>（图像分割） |[《PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment》 （ICCV 2019）](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf  ) ||
 |2021.9.6|2.  李阳  <br>（图像分割） |[《Mining Latent Classes for Few-shot Segmentation》 （ICCV 2021 Oral） ](https://arxiv.org/abs/2103.15402 ) ||
