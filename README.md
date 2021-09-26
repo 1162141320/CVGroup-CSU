@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.9.27|1. 曾海龙  <br>（目标检测） |[《TOOD: Task-aligned One-stage Object Detection》 （ICCV 2021 Oral）](https://arxiv.org/abs/2108.07755 )
 |2021.9.20|1. 刘浩天  <br>（目标检测） |[《A Simple Semi-Supervised Learning Framework for Object Detection》 （arxiv 2020）](https://arxiv.org/abs/2005.04757v2  )
 |2021.9.20|2. 刘浩天  <br>（目标检测） |[《End-to-End Semi-Supervised Object Detection with Soft Teacher》 （ICCV 2021）](https://arxiv.org/abs/2106.09018v3)
 |2021.9.13|1. 耿瑞祥  <br>（Domain Generalization） |[《Towards Learning Spatially Discriminative Feature Representations》 （ICCV 2021）](https://arxiv.org/abs/2109.01359v1 )
