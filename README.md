@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.10.11|1. 吕乐乐  <br>（Weakly Supervised Learning） |[《Weakly Supervised Person Search with Region Siamese Networks》 （ICCV 2021）](https://arxiv.org/abs/2109.06109 )
+|2021.10.11|2. 王都   <br>（Attention） |[《FcaNet: Frequency Channel Attention Networks》 （ICCV 2021）](https://arxiv.org/abs/2012.11879)
 |2021.9.27|1. 曾海龙  <br>（目标检测） |[《TOOD: Task-aligned One-stage Object Detection》 （ICCV 2021 Oral）](https://arxiv.org/abs/2108.07755 )
 |2021.9.27|2. 曾海龙  <br>（目标检测） |[《Rethinking the Aligned and Misaligned Features in One-stage Object Detection》 （arxiv 2021）](https://arxiv.org/abs/2108.12176)
 |2021.9.20|1. 刘浩天  <br>（目标检测） |[《A Simple Semi-Supervised Learning Framework for Object Detection》 （arxiv 2020）](https://arxiv.org/abs/2005.04757v2  )
