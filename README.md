@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.10.25|1. 李胜琦  <br>（Semantic Segmentation） |[《ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation》 （ICCV 2021） ](https://arxiv.org/abs/2108.12382 )
+|2021.10.25|2. 耿瑞祥 <br>（Object Detection） |[《LGD: Label-guided Self-distillation for Object Detection》 （arXiv 2021）](https://arxiv.org/abs/2109.11496)
 |2021.10.18|1. 赵嘉伟  <br>（Incremental Object Detection） |[《Morphable Detector for Object Detection on Demand》 （ICCV 2021）](https://arxiv.org/abs/2110.04917 )
 |2021.10.18|2. 张永胜  <br>（Contrastive Learning） |[《Self-Supervised Visual Representations Learning by Contrastive Mask Prediction》 （ICCV 2021） ](https://arxiv.org/abs/2110.04917 )
 |2021.10.11|1. 吕乐乐  <br>（Weakly Supervised Learning） |[《Weakly Supervised Person Search with Region Siamese Networks》 （ICCV 2021）](https://arxiv.org/abs/2108.07954)
