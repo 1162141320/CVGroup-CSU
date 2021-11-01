@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.11.1|1. 陈雁   <br>（Instance  Segmentation） |[《SOTR: Segmenting Objects with Transformers》 （ICCV 2021）](https://arxiv.org/abs/2108.06747)
 |2021.10.25|1. 李胜琦  <br>（Semantic Segmentation） |[《ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation》 （ICCV 2021） ](https://arxiv.org/abs/2108.12382 )
 |2021.10.25|2. 耿瑞祥 <br>（Object Detection） |[《LGD: Label-guided Self-distillation for Object Detection》 （arXiv 2021）](https://arxiv.org/abs/2109.11496)
 |2021.10.18|1. 赵嘉伟  <br>（Incremental Object Detection） |[《Morphable Detector for Object Detection on Demand》 （ICCV 2021）](https://arxiv.org/abs/2110.04917 )
