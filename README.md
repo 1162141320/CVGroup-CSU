@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.11.18|1. 赵杨   <br>（Self-Supervised Learning） |[《Masked Autoencoders Are Scalable Vision Learners》 （arXiv 2021）](https://arxiv.org/abs/2111.06377 )
+|2021.11.18|2. 张朝君   <br>（目标检测） |[《《Humble Teachers Teach Better Students for Semi-Supervised Object Detection》 （CVPR 2021） ](https://arxiv.org/abs/2106.10456 )
 |2021.11.8|1. 冯硕   <br>（Transformer） |[《Emerging Properties in Self-Supervised Vision Transformers》 （ICCV 2021）](https://arxiv.org/abs/2104.14294)
 |2021.11.1|1. 陈雁   <br>（Instance  Segmentation） |[《SOTR: Segmenting Objects with Transformers》 （ICCV 2021）](https://arxiv.org/abs/2108.06747)
 |2021.10.25|1. 李胜琦  <br>（Semantic Segmentation） |[《ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation》 （ICCV 2021） ](https://arxiv.org/abs/2108.12382 )
